@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // Personalize message dynamically
     name.textContent = "Riddhi"; // Replace with your friend's name
-    yourName.textContent = "John"; // Replace with your name
+    yourName.textContent = "Srivaths,Harshada"; // Replace with your name
 
     // Fade-in effect for the birthday message
     setTimeout(() => {
